@@ -2,7 +2,7 @@
 socket progamming with TCP &amp; UDP 
 
 **To test the code:**  
-*Prerequisite* you need to make sure all the files are in the same folder  
+*Prerequisite:* make sure all the files are in the same folder  
 ### Build  
 `$ bash build.sh`  
 Generate executable file and place it in corresponding path  

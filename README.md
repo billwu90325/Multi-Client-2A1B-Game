@@ -5,7 +5,7 @@ socket progamming with TCP &amp; UDP
 [Prerequisite] you need to make sure all the files are in the same folder  
 ### Build  
 `$ bash build.sh`  
-Generate executable file and place it in corresponding path
+Generate executable file and place it in corresponding path  
 **Make sure your path to server is './build/server'**  
  
 ### Test your code  
